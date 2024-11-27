@@ -1,4 +1,10 @@
+// Partner A: Sriya Veluri
+// Partner B; Medha Iyer
+
 public class Main {
+  // Partner A: Sriya Veluri
+  // Partner B; Medha Iyer
+  
     public static void main(String[] args)
     {
         Addition add = (num1,num2) -> {
